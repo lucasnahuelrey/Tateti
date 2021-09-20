@@ -3,11 +3,7 @@
  * @author Lucas
  */
 
-package tateti; // Da acceso al objeto tateti
-
 // Clase LucasTateti
-import java.awt.Toolkit;
-
 
 public class LucasTateti {
 
